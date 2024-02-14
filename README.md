@@ -1,2 +1,2 @@
 # ColorDNA
-Make music and art from a sample genetic sequence.
+ColorDNA is a hobby research project to study the relationships between science and molecular science.
